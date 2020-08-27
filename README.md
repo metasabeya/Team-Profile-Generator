@@ -1,4 +1,10 @@
 # Team-Profile-Generator
+
+
+![Screenshot (201)](https://user-images.githubusercontent.com/65740871/91371598-ad993680-e7ce-11ea-86ed-8888385cfcdb.png)
+
+
+
 This Project build a software engineering team generator command line application. The application will prompt the user 
 
 
@@ -80,7 +86,7 @@ The first class is an `Employee` parent class with the following properties and 
 
 
 
-![Screenshot (201)](https://user-images.githubusercontent.com/65740871/91371598-ad993680-e7ce-11ea-86ed-8888385cfcdb.png)
+
 
 
 

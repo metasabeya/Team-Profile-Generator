@@ -80,7 +80,7 @@ The first class is an `Employee` parent class with the following properties and 
 
   . ID
 
-   Role-specific property (School, link to GitHub profile, or office number)
+   . Role-specific property (School, link to GitHub profile, or office number)
 
 
 

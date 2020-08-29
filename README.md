@@ -1,4 +1,10 @@
 # Team-Profile-Generator
+
+
+![Screenshot (201)](https://user-images.githubusercontent.com/65740871/91371598-ad993680-e7ce-11ea-86ed-8888385cfcdb.png)
+
+
+
 This Project build a software engineering team generator command line application. The application will prompt the user 
 
 
@@ -74,13 +80,13 @@ The first class is an `Employee` parent class with the following properties and 
 
   . ID
 
-   Role-specific property (School, link to GitHub profile, or office number)
+   . Role-specific property (School, link to GitHub profile, or office number)
 
 
 
 
 
-![Screenshot (201)](https://user-images.githubusercontent.com/65740871/91371598-ad993680-e7ce-11ea-86ed-8888385cfcdb.png)
+
 
 
 
@@ -92,4 +98,10 @@ The first class is an `Employee` parent class with the following properties and 
 
 
 you can watch the video using the link below//google drive link.
+<<<<<<< HEAD
 https://drive.google.com/file/d/15jBLTZTOqJmU0VBvupQPArmBmIn1D2kP/view?usp=sharing
+=======
+
+
+https://drive.google.com/file/d/1mkGhIJ9tbQaABWkfhCVmZI9sCIi_yf5Y/view?usp=sharing
+>>>>>>> 2dd081291940da4e0e9a9e1ffa88c45c894e6b84

@@ -12,7 +12,7 @@ const render = require("./lib/htmlRenderer");
 
 
 
-
+const userData = [];
 
 
 
@@ -141,7 +141,8 @@ function resume() {
       ],
     })
 
-    .then(function (answer) {
+   
+     .then(function (answer) {
       if (answer.Member === "Manager") {
         createManager();
       } else if (answer.Member === "Engineer") {
@@ -149,7 +150,13 @@ function resume() {
       } else if (answer.Member === "Intern") {
         createIntern();
       } else {
-        fs.writeFile("team.html", render(employeesArr), function (err) {
+
+        
+        if (!fs.existsSync(OUTPUT_DIR)) {
+          fs.mkdirSync(OUTPUT_DIR);
+        }
+    
+        fs.writeFile("./output/team.html", render(employeesArr), function (err) {
           if (err) throw err;
         });
       }

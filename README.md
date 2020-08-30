@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 
+![Screenshot (211)](https://user-images.githubusercontent.com/65740871/91668693-cd30a780-eacb-11ea-8741-275d52202794.png)
 
-![Screenshot (201)](https://user-images.githubusercontent.com/65740871/91371598-ad993680-e7ce-11ea-86ed-8888385cfcdb.png)
 
 
 
